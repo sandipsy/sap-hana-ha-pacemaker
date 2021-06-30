@@ -1,3 +1,3 @@
 - hosts: hana
-      roles:
-        - { role: redhat_sap.sap_hana_ha_pacemaker }
+  roles:
+    - { role: redhat_sap.sap_hana_ha_pacemaker }
